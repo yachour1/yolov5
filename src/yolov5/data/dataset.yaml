@@ -1,0 +1,12 @@
+#path to training directory
+train: ../train/images
+#path to validation directory
+val: ../valid/images
+#path to test directroy
+test: ../test/images
+
+#number of classes
+nc: 2
+
+#class names
+names: ['Volkswagon Tiguan R', 'Port']
